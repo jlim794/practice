@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+	margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+p {
+	margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
